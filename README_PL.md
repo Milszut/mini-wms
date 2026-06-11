@@ -87,13 +87,12 @@ SESSION_COOKIE_NAME=
 CSRF_COOKIE_NAME=
 ```
 
-Dane demonstracyjne są przywracane automatycznie przy użyciu plików JSON oraz zaplanowanego resetu bazy danych.
-
 ## Struktura bazy danych
 Struktura bazy danych jest dostępna w pliku:
 ```text
 mini-wms-backend/schema.sql
 ```
+Dane demonstracyjne są przywracane automatycznie przy użyciu plików JSON oraz zaplanowanego resetu bazy danych.
 
 ## Wdrożenie
 Aplikacja została wdrożona na serwerze VPS z systemem Ubuntu.
