@@ -1,0 +1,8 @@
+mini-wms-frontend/node_modules
+mini-wms-frontend/dist
+mini-wms-frontend/.env
+
+mini-wms-backend/node_modules
+mini-wms-backend/.env
+
+mini-wms-backend/uploads

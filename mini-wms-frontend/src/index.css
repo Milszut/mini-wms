@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Koulen&family=Prata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Koulen&family=Prata&family=Solway:wght@300;400;500;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+@import "tailwindcss";
+@plugin "tailwind-scrollbar";
+
+@layer base {
+  html, body {
+    @apply bg-black text-white;
+  }
+  input[type='number']::-webkit-inner-spin-button,
+  input[type='number']::-webkit-outer-spin-button {
+    @apply appearance-none;
+    margin: 0;
+  }
+  .custom-scrollbar {
+    @apply
+      [&::-webkit-scrollbar]:w-1.5
+      [&::-webkit-scrollbar-track]:rounded-none
+      [&::-webkit-scrollbar-thumb]:rounded-none
+      [&::-webkit-scrollbar-thumb]:bg-white
+      [&::-webkit-scrollbar-thumb]:cursor-pointer
+      dark:[&::-webkit-scrollbar-thumb]:bg-white
+      dark:[&::-webkit-scrollbar-track]:bg-black/60
+  }
+}
+
+@theme {
+  --font-koulen: "Koulen", sans-serif;
+  --font-prata: "Prata", sans-serif;
+  --font-solway: "Solway", sans-serif;
+  --font-rubik: "Rubik", sans-serif;
+
+  --breakpoint-xs: 414px;
+  --breakpoint-mdl: 800px;
+}

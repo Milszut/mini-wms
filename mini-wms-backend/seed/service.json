@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Administracja"
+  },
+  {
+    "id": 2,
+    "name": "Logistyka"
+  },
+  {
+    "id": 3,
+    "name": "Produkcja"
+  },
+  {
+    "id": 4,
+    "name": "IT"
+  },
+  {
+    "id": 5,
+    "name": "Sprzedaż"
+  },
+  {
+    "id": 6,
+    "name": "Marketing"
+  },
+  {
+    "id": 7,
+    "name": "Serwis"
+  },
+  {
+    "id": 8,
+    "name": "Zakupy"
+  },
+  {
+    "id": 9,
+    "name": "Kontrola Jakości"
+  },
+  {
+    "id": 10,
+    "name": "Magazyn"
+  },
+  {
+    "id": 11,
+    "name": "Wsparcie Techniczne"
+  },
+  {
+    "id": 12,
+    "name": "Utrzymanie Ruchu"
+  },
+  {
+    "id": 13,
+    "name": "HR"
+  },
+  {
+    "id": 14,
+    "name": "Inne"
+  }
+]

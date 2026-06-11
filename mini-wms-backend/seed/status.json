@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Na stanie"
+  },
+  {
+    "id": 2,
+    "name": "Zutylizowany"
+  },
+  {
+    "id": 3,
+    "name": "Przekazany"
+  },
+  {
+    "id": 4,
+    "name": "Sprzedany"
+  },
+  {
+    "id": 5,
+    "name": "Usunięty"
+  }
+]

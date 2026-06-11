@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "name": "Magazyn Główny"
+  },
+  {
+    "id": 2,
+    "name": "Magazyn Elektroniki"
+  },
+  {
+    "id": 3,
+    "name": "Magazyn Narzędzi"
+  },
+  {
+    "id": 4,
+    "name": "Strefa Przyjęć"
+  },
+  {
+    "id": 5,
+    "name": "Strefa Wysyłek"
+  },
+  {
+    "id": 6,
+    "name": "Regał A"
+  },
+  {
+    "id": 7,
+    "name": "Regał B"
+  },
+  {
+    "id": 8,
+    "name": "Regał C"
+  },
+  {
+    "id": 9,
+    "name": "Regał D"
+  },
+  {
+    "id": 10,
+    "name": "Regał E"
+  },
+  {
+    "id": 11,
+    "name": "Regał F"
+  },
+  {
+    "id": 12,
+    "name": "Strefa Serwisowa"
+  },
+  {
+    "id": 13,
+    "name": "Zaplecze"
+  }
+]
