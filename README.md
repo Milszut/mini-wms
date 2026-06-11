@@ -87,6 +87,14 @@ SESSION_COOKIE_NAME=
 CSRF_COOKIE_NAME=
 ```
 
+## Database Schema
+The database structure is available in:
+```text
+mini-wms-backend/schema.sql
+```
+Demo data is restored automatically using JSON seed files and a scheduled database reset.
+
+
 ## Deployment
 The application is deployed on a VPS running Ubuntu.
 Services used:
